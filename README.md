@@ -1,6 +1,6 @@
 # Frontend Mentor - Body Mass Index Calculator solution
 
-This is a solution to the [Body Mass Index Calculator challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/body-mass-index-calculator-brrBkfSz1T). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [NFT Preview Card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ### Screenshot
 
@@ -8,8 +8,8 @@ This is a solution to the [Body Mass Index Calculator challenge on Frontend Ment
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/bmi-calculator-page-using-css-grid-UsL4ZqSbJT)
-- Live Site URL: [Add live site URL here](https://umutyg.github.io/Frontendmentor-BMI-Calculator/)
+- Solution URL: [https://www.frontendmentor.io/solutions/nft-preview-card-using-flexbox-fOAo5Ur34_](https://www.frontendmentor.io/solutions/nft-preview-card-using-flexbox-fOAo5Ur34_)
+- Live Site URL: [https://umutyg.github.io/FrontendMentor-NFT-Preview-Card/](https://umutyg.github.io/FrontendMentor-NFT-Preview-Card/)
 
 ## Author
 
